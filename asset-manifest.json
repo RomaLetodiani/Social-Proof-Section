@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Social-Proof-Section/static/css/main.4e6f53d7.css",
+    "main.js": "/Social-Proof-Section/static/js/main.6bb401c6.js",
+    "index.html": "/Social-Proof-Section/index.html",
+    "main.4e6f53d7.css.map": "/Social-Proof-Section/static/css/main.4e6f53d7.css.map",
+    "main.6bb401c6.js.map": "/Social-Proof-Section/static/js/main.6bb401c6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4e6f53d7.css",
+    "static/js/main.6bb401c6.js"
+  ]
+}
